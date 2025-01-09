@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Lucas
 #### I am computer engineering freshman, passionate about hardware
-![I am computer engineering freshman, passionate about hardware]()
+
+I am computer engineering freshman, passionate about hardware
 
 👤- 18 yo
 
