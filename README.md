@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eai tudo bem, eu sou o Lucas e atualmente estou cursando o primeiro ano de engenharia da computação no INTELI<br><br>👤- 18 anos<br>📚- estudante<br>🎮- Hobbies: joga basquete, videogames e ouvir rap<br>👩‍💻- aprendendo a programar<br>👬- sempre aberto a novas amizades
+Eai tudo bem, eu sou o Lucas e atualmente estou cursando o primeiro ano de engenharia da computação no INTELI<br><br>👤- 18 anos<br>📚- estudante<br>🎮- Hobbies: joga basquete, videogames e ouvir rock/rap<br>👩‍💻- aprendendo a programar<br>👬- sempre aberto a novas amizades
 
 # ✍️ Uma Frase Que Eu Gosto
  "Você erra todo arremesso que você não tenta" - Michael Jordan
