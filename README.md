@@ -14,7 +14,7 @@ Eai tudo bem, eu sou o Lucas e atualmente estou cursando o primeiro ano de engen
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pominss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Dedicatória
-Criei esse cantinho especial pra me lembrar de quem sempre esteve aqui para me apoiar, e a eles eu só tenho a agradecer. Obrigado pai, mãe e amigos.
+Criei esse cantinho especial pra me lembrar de quem sempre esteve aqui para me apoiar, e a eles eu só tenho a agradecer. Obrigado pai, mãe, amigos e Gabi.
 
 Agradeço também ao meu Buddy que está sendo meu braço direito nos momentos de dificuldade:
 https://github.com/VinTesta
